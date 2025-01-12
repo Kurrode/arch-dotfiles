@@ -1,0 +1,5 @@
+# Define the user shell
+shell /usr/bin/zsh
+
+# Define kitty mod
+kitty_mod alt
